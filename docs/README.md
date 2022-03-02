@@ -11,4 +11,6 @@ Nome do Estudante
 * Python
 * ...
 
+>Metodologia de Desenvolvimento de softaware @ 2020
+
 ![imagem](https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png (2))
